@@ -57,7 +57,7 @@ The global IoT security market size is estimated at **$7.5 Billion to $10 Billio
 
 ## ⚡ Open-Source GitHub Projects
 
-Below is a curated list of top open-source projects for IoT security, firmware reverse-engineering, MUD generation, and network security monitoring — sorted in descending order by **GitHub Star Count**.
+Below is a curated list of top open-source projects for IoT security, firmware reverse-engineering, MUD generation, and network security monitoring — sorted in descending order by **GitHub Stars_Count**.
 
 ### 🔍 Firmware Analysis & Reverse Engineering
 
